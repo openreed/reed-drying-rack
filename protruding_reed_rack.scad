@@ -6,21 +6,21 @@ $fs = 0.3;
 /*[基本参数 | Basic Parameters]*/
 // 哨座锥数量, [X方向数量, Y方向数量] | Number of reed staples, [in X direction, in Y direction]
 
-NumberOfStaples = [8,4];
+NumberOfStaples = [5,3];
 
 // 哨座锥间距 | Reed staples spacing
-StapleSpace = 10; 
+StapleSpace = 14; 
 
 
 /*[高级参数 | Advanced Parameters]*/
 // 哨座锥底径 | Reed staple bottom diameter
-StapleBottomDiameter = 5; 
+StapleBottomDiameter = 6; 
 
 // 哨座锥顶径 | Reed staple top diameter
-StapleTopDiameter = 3;
+StapleTopDiameter = 4;
 
 // 哨座锥高度 | Reed staple height
-StapleHeight = 12;  
+StapleHeight = 16;  
 
 // 底板厚度 | Thickness of the base plate
 BaseThickness = 8;
