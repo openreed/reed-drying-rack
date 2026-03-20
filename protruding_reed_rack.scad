@@ -14,13 +14,13 @@ StapleSpace = 14;
 
 /*[高级参数 | Advanced Parameters]*/
 // 哨座锥底径 | Reed staple bottom diameter
-StapleBottomDiameter = 6; 
+StapleBottomDiameter = 6.4; 
 
 // 哨座锥顶径 | Reed staple top diameter
-StapleTopDiameter = 4;
+StapleTopDiameter = 4.2;
 
 // 哨座锥高度 | Reed staple height
-StapleHeight = 16;  
+StapleHeight = 18;  
 
 // 底板厚度 | Thickness of the base plate
 BaseThickness = 8;
