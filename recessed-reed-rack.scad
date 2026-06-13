@@ -5,7 +5,7 @@ $fs = 0.3;
 
 /*[基本参数 | Basic Parameters]*/
 //哨片槽数量, [X方向数量, Y方向数量] | Number of reed slots, [in X direction, in Y direction]
-NumberOfSlots = [8,4];
+NumberOfSlots = [6,3];
 
 //哨片槽间距 | Reed slot spacing
 SlotSpace = 10;  
