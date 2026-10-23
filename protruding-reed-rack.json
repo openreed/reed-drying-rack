@@ -1,0 +1,17 @@
+{
+  "fileFormatVersion": "1",
+  "parameterSets": {
+    "Oboe-English horn": {
+      "ReedFamily": "oboe_english_horn",
+      "NumberOfStaples": "[3, 2]",
+      "StapleCenterSpacing": "0",
+      "DiameterCompensation": "0"
+    },
+    "Bassoon": {
+      "ReedFamily": "bassoon",
+      "NumberOfStaples": "[3, 2]",
+      "StapleCenterSpacing": "0",
+      "DiameterCompensation": "0"
+    }
+  }
+}
